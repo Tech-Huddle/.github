@@ -1,0 +1,12 @@
+{
+    "name": "Docker Image CI template",
+    "description": "Docker Image CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
